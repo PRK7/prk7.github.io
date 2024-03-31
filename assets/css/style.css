@@ -3237,6 +3237,7 @@ hr {
 }
 
 .works-items.works-masonry-items .works-item .desc .category {
+	margin-top: 20px;
 	margin-bottom: 5px;
 	display: block;
 	text-transform: uppercase;
